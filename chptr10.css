@@ -1,0 +1,13 @@
+ul li:first-child{
+    color: pink;
+}
+
+ul li:nth-child(4){
+    color: red;
+}
+body {
+    background-color: black;
+}
+ul {
+    color: white;
+}
